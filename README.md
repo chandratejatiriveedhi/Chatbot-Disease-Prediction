@@ -6,3 +6,6 @@ The code files in app consist of streamlit app script. To run the script place a
 
 !pip install pyngrok streamlit
 !streamlit run app7.py &>/dev/null&
+
+Once the application opens you can input in the textbox in the following format. 
+Fever: Yes, Cough: No, Fatigue: Yes, Difficulty Breathing: Yes, Age: 45, Blood Pressure: High, Cholesterol Level: Low
