@@ -10,3 +10,6 @@ The code files in app consist of streamlit app script. To run the script place a
 Once the application opens you can input in the textbox in the following format. 
 Fever: Yes, Cough: No, Fatigue: Yes, Difficulty Breathing: Yes, Age: 45, Blood Pressure: High, Cholesterol Level: Low
 You can leave some parameters blank, however it might not give an accurate/desired results
+
+Note: When cloning the github repo files, you might want to ensure that the files are renamed if needed. 
+For eg. app7 (1).py to app7.py
